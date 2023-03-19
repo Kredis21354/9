@@ -2,7 +2,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
-URL = "https://www.amazon.com/Comfortable-Ergonomic-Computer-Cockpit-Simulator/dp/B0BPSV8L7H/ref=sr_1_7?keywords=gaming+chairs&pd_rd_r=a733c5d2-0f21-4e46-a37c-085332472b71&pd_rd_w=V5jej&pd_rd_wg=tGhjq&pf_rd_p=12129333-2117-4490-9c17-6d31baf0582a&pf_rd_r=MBWWPYNYVJRXGRMZQ8GE&qid=1679212809&sr=8-7"
+URL = "https://coinmarketcap.com/"
 
 res = requests.get(URL)
 
